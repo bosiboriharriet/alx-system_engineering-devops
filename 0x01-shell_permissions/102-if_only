@@ -1,2 +1,2 @@
 #!/bin/bash
-chown type user:guillaume betty hello
+chown betty hello
